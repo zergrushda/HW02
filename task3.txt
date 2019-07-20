@@ -1,0 +1,3 @@
+Function A: takes y and adds 1 to it
+Function B: takes the value of adress &y
+Function C: takes value of adress &y and set it to 6
